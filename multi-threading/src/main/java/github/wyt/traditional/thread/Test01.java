@@ -1,7 +1,11 @@
 package github.wyt.traditional.thread;
 
 /**
- * 创建一个线程并启动。
+ * 线程基础
+ *
+ * <ol>
+ *   <li>创建一个线程并启动。
+ * </ol>
  *
  * @author wangyongtao
  * @date 2018/9/3
